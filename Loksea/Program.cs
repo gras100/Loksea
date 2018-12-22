@@ -16,7 +16,11 @@ namespace Loksea
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            using (IconUpdater app = new IconUpdater())
+            {
+                app.Start();
+                Application.Run();
+            }
         }
     }
 }

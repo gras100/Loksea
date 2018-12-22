@@ -118,52 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="LockSea_nnnn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_nnnn.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="About" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\about.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LockSea_nnny" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_nnny.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Exit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LockSea_nnyn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_nnyn.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Explorer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\explorer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LockSea_nnyy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_nnyy.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_nynn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_nynn.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_nyny" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_nyny.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_nyyn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_nyyn.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_nyyy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_nyyy.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_ynnn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_ynnn.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_ynny" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_ynny.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_ynyn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_ynyn.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_ynyy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_ynyy.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_yynn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_yynn.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_yyny" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_yyny.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_yyyn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_yyyn.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LockSea_yyyy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LockSea_yyyy.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="SystemTrayApp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\systemtrayapp.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
