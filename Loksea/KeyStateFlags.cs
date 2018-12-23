@@ -1,18 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Loksea
 {
-    [FlagsAttribute]
+    [Flags]
     public enum KeyStateFlags
     {
         None = 0,
         CapsLock = 1,
-        ScrollLock = 8,
         NumLock = 2,
-        Insert = 4
+        Insert = 4,
+        ScrollLock = 8
     }
 }

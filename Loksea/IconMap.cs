@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Drawing;
 using System.Globalization;
 
@@ -12,11 +11,11 @@ namespace Loksea
         
         static IconMap()
         {
-            CultureInfo ci = global::Loksea.Properties.Resources.Culture;
+            CultureInfo ci = Properties.Resources.Culture;
             for(int i = 0; i <= _Flags.MaxValue<KeyStateFlags>(); i++)
             {
-                String ico = "LockSea_" + getFileFlagsToken(i);
-                Icon icon = (Icon)global::Loksea.Properties.Resources.ResourceManager.GetObject(ico, ci);
+                String iconName = "LockSea_" + getFileFlagsToken(i);
+                Icon icon = (Icon) Properties.Resources.ResourceManager.GetObject(iconName, ci);
                 map.Add((KeyStateFlags)i, icon);
             }
         }
